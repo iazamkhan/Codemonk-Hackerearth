@@ -25,7 +25,7 @@ int main()
             {
                 if(s[i]<48||s[i]>57)
                 {
-                    cout<<"NO"<<endl;
+                    cout<<"NO"<<"\n";
                     flag=1;
                     break;
                 }
